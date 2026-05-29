@@ -29,3 +29,4 @@ print(display_snacks)
 # None이 아닌 간식만 모아서 리스트 작성
 available_snacks = [snack for snack in snacks if snack is not None]
 print(available_snacks)
+print("hi")
